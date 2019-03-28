@@ -1,0 +1,3 @@
+The Divided Difference Program is made up of two JAVA files.
+The Main file and the XYSeriesDemo file. Both files must be included within
+the same package for the program to run.
